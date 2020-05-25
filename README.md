@@ -1,6 +1,6 @@
 # Docsify File Generator
 
-- A simple script to generate files for docsify automatically.
+- A simple script to generate files for [docsify](https://docsify.js.org/#/) automatically.
 - It can be useful when using docsify to take personal notes and want to organize notes into sections.
 - This script helps generate files for topics, subtopics and pages. For example:
     + Main Topic 1
