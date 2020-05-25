@@ -1,0 +1,14 @@
+{
+  "name": "docsify-filegenerator",
+  "version": "1.0.0",
+  "description": "A simple script to generate docsify files automatically",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prakash Gudditi",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
